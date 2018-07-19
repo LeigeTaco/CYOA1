@@ -1,0 +1,7 @@
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\bin\Debug\CYOAGame1.exe.config
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\bin\Debug\CYOAGame1.exe
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\bin\Debug\CYOAGame1.pdb
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\obj\Debug\CYOAGame1.csprojAssemblyReference.cache
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\obj\Debug\CYOAGame1.csproj.CoreCompileInputs.cache
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\obj\Debug\CYOAGame1.exe
+C:\Users\ashke\source\repos\CYOAGame1\CYOAGame1\obj\Debug\CYOAGame1.pdb
